@@ -85,7 +85,7 @@ class MainViewModel @Inject constructor(
         prefs.save(key, value)
     }
 
-    fun <T> get(key: Preferences.Key<T>, defaultValue: T): Flow<T> {
+    fun <T> get(key: Preferences.Key<Int>, defaultValue: T): Flow<T> {
         return prefs.get(key, defaultValue)
     }
 }

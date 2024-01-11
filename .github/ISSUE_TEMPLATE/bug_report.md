@@ -1,32 +1,32 @@
 ---
-name: Bug report
-about: Create a report to help improve the app
+name: Bug Report
+about: Generate a report to contribute to app enhancement
 title: ''
 labels: bug
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**Describe the Bug**
+Provide a clear and concise depiction of the issue.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
+**Steps to Reproduce**
+Outline the steps required to replicate the behavior:
+1. Navigate to '...'
 2. Click on '....'
 3. Scroll down to '....'
-4. See error
+4. Observe the error
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**Expected Behavior**
+Clearly articulate what you anticipated to occur.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+Include screenshots if applicable to aid in elucidating the issue.
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. Galaxy S23]
- - OS: [e.g. Android 14]
- - App Version [e.g. 1.0.2]
+**Smartphone Details (please fill in the following information):**
+- Device: [e.g., Galaxy S23]
+- OS: [e.g., Android 14]
+- App Version: [e.g., 1.0.2]
 
-**Additional context**
-Add any other context about the problem here.
+**Additional Context**
+Incorporate any additional information or context pertinent to the problem at hand.

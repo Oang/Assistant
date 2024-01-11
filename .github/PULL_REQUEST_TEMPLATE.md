@@ -1,22 +1,22 @@
 ## Description
 
-Please include a summary of the changes and the related issue.
+Kindly provide a concise summary of the alterations and the associated problem.
 
-Fixes # (issue)
+Fixes # (insert issue number)
 
-## Type of change
+## Type of Modification
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Code style (formatting, new lines, etc.)
-- [ ] Refactoring (no functional changes, renaming)
-- [ ] Other (describe the changes):
+- [ ] Bug resolution (non-breaking alteration addressing an issue)
+- [ ] Addition of new functionality (non-breaking modification introducing capabilities)
+- [ ] Code formatting and style adjustments
+- [ ] Refactoring (no functional changes, focused on renaming and restructuring)
+- [ ] Other (specify the nature of the changes):
 
 ## Checklist:
 
-- [ ] My code follows the style and architecture of the project
-- [ ] I have performed a self-review of my code
-- [ ] I have tested the app on an actual Android device and everything works as expected
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] My changes generate no new warnings or errors
-- [ ] New and existing tests pass locally with my changes
+- [ ] Adherence of my code with the style and architecture of the project
+- [ ] Conducted a self-review of my code
+- [ ] Tested the application on an actual Android device, confirming that everything functions as intended
+- [ ] Code is adequately commented, especially in areas that may be challenging to comprehend
+- [ ] Introduction of my changes results in no new warnings or errors
+- [ ] Both new and existing tests pass successfully on local testing with my modifications

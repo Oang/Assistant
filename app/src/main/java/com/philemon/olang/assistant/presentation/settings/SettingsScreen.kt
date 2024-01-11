@@ -114,7 +114,7 @@ fun SettingsScreen(
             item {
                 SettingsItem(
                     title = stringResource(R.string.theme),
-                    iconRes = R.drawable.ic_theme,
+                    iconRes = R.drawable.theme,
                     onClick = {
                         viewModel.save(
                             intPreferencesKey(THEME),
@@ -129,8 +129,8 @@ fun SettingsScreen(
                     Icon(
                         painter = painterResource(
                             when (theme) {
-                                THEME_LIGHT -> R.drawable.ic_light
-                                THEME_DARK -> R.drawable.ic_dark
+                                THEME_LIGHT -> R.drawable.light
+                                THEME_DARK -> R.drawable.theme2
                                 else -> R.drawable.ic_auto
                             }
                         ),
@@ -146,7 +146,7 @@ fun SettingsScreen(
                 }
                 SettingsItem(
                     title = stringResource(R.string.api_key),
-                    iconRes = R.drawable.ic_key,
+                    iconRes = R.drawable.padlock,
                     onClick = {
                         showKeyDialog = true
                     }
@@ -220,8 +220,8 @@ fun SettingsScreen(
             item {
                 SettingsLinkItem(
                     title = stringResource(R.string.app_version),
-                    iconRes = R.drawable.ic_version,
-                    url = "https://github.com/mhss1/AIStudyAssistant/releases"
+                    iconRes = R.drawable.control,
+                    url = "https://github.com/Oang/Assistant/releases"
                 ) {
                     Text(
                         text = BuildConfig.VERSION_NAME,
@@ -232,23 +232,23 @@ fun SettingsScreen(
             item {
                 SettingsLinkItem(
                     title = stringResource(R.string.project_on_github),
-                    iconRes = R.drawable.ic_github,
-                    url = "https://github.com/mhss1/AIStudyAssistant"
+                    iconRes = R.drawable.gitface,
+                    url = "https://github.com/Oang/Assistant"
                 ) {}
             }
 
             item {
                 SettingsLinkItem(
                     title = stringResource(R.string.request_feature_report_bug),
-                    iconRes = R.drawable.ic_bulb,
-                    url = "https://github.com/mhss1/AIStudyAssistant/issues"
+                    iconRes = R.drawable.features,
+                    url = "https://github.com/Oang/Assistant/upload/issues"
                 ){}
             }
             item {
                 SettingsLinkItem(
                     title = stringResource(R.string.project_roadmap),
-                    iconRes = R.drawable.ic_roadmap,
-                    url = "https://github.com/users/mhss1/projects/3"
+                    iconRes = R.drawable.roadmap,
+                    url = "https://github.com/Oang/Assistant/upload"
                 ){}
             }
         }
