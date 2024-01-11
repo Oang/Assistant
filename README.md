@@ -7,11 +7,14 @@
 
 ### AI chatbot, Lecture Summarizer, Essay Writer, and Questions Generator.
 <div align="left">
-<img src="https://github.com/oang/AIStudyAssistant/assets/58703865/4b637ddb-5289-4cd4-8fb4-7f314602133c.jpg" width="160" />
-<img src="https://github.com/oang/AIStudyAssistant/assets/58703865/1b83d855-1857-4b34-b480-0418c13e9ebc.jpg" width="160" />
-<img src="https://github.com/oang/AIStudyAssistant/assets/58703865/d43a7479-bb8e-4908-b2d5-a1749e1b8c1a.jpg" width="160" />
-<img src="https://github.com/oang/AIStudyAssistant/assets/58703865/7c7d733a-1073-4272-b3e7-7580a14028e8.jpg" width="160" />
-<img src="https://github.com/oang/AIStudyAssistant/assets/58703865/bf435405-bf05-488a-ba90-8f35a9c337c6.jpg" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/7.png" width="160" />
+<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="160" />
 </div>
 
 [screenshots made by previewed](https://previewed.app)
