@@ -3,7 +3,7 @@
 
 <img align="left" width="80" height="80" src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/icon.png" alt="app icon">
 
-# AI Study Assistant
+# AI Assistant
 
 ### AI chatbot, Lecture Summarizer, Essay Writer, and Questions Generator.
 <div align="left">
@@ -23,7 +23,7 @@
 alt="Get it on GitHub"
 height="80">](https://github.com/oang/Assistant/releases/latest)
 
-AI Assistant is an app designed to enhance your learning experience and boost academic performance. With a comprehensive set of AI-powered features, it serves as your personal tutor, lecture summarizer, writer, and question generator, all powered by Google PaLM 2. Whether you need assistance with specific topics, summarizing lectures, crafting essays, or generating practice questions, AI Study Assistant has got you covered.
+AI Assistant is an app designed to enhance your learning experience and boost academic performance. With a comprehensive set of AI-powered features, it serves as your personal tutor, lecture summarizer, writer, and question generator, all powered by Google Gemini. Whether you need assistance with specific topics, summarizing lectures, crafting essays, or generating practice questions, AI Assistant has got you covered.
 
 ## Features:
 
@@ -37,7 +37,7 @@ Effortlessly summarize lengthy lecture notes or PDF files. Simply input the lect
 Overcome writer's block and streamline your essay writing process. Input a subject or topic, and AI Study Assistant will generate a comprehensive essay in a well-structured PDF format. The essay will include informative headlines, bullet points, and other key elements to help you present your ideas coherently and effectively.
 
 ### Questions Generator:
-Test your knowledge and reinforce your learning by generating practice questions. Input a lecture PDF file or content, and AI Study Assistant will generate a PDF file containing multiple-choice questions with the correct answers and detailed explanations. This feature allows you to evaluate your understanding of the material and identify areas that require further study.
+Test your knowledge and reinforce your learning by generating practice questions. Input a lecture PDF file or content, and AI Assistant will generate a PDF file containing multiple-choice questions with the correct answers and detailed explanations. This feature allows you to evaluate your understanding of the material and identify areas that require further study.
 
 ## Technologies
 - 100% Kotlin.
