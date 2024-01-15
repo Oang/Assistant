@@ -62,4 +62,3 @@ Contribute to the advancement of AI Assistant by referring to [CONTRIBUTING.md](
 ## Support Development:**
 If you find AI Assistant valuable, kindly consider supporting its ongoing development by [buying me a coffee](https://www.buymeacoffee.com/olang).
 # Assistant
-# Assistant
