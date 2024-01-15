@@ -1,4 +1,4 @@
-8![GitHub Stars](https://img.shields.io/github/stars/oang/assistant?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/oang/assistant?style=social)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 <img align="left" width="80" height="80" src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/icon.png" alt="app icon">
