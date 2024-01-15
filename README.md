@@ -16,33 +16,34 @@
 <img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/7.png" width="160" />
 <img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="160" />
 </div>
+
 [<img src="https://github.com/Oang/Assistant/blob/main/fastlane/metadata/android/en-US/icon.png"
 alt="Get it on GitHub"
-height="80">](https://github.com/oang/Assistant/releases/latest)
+height="80">](https://github.com/oang/Assistant/releases/latest) 
+(Click the icon to access the latest release)
+**Key Features:**
 
-AI Assistant is an app designed to enhance your learning experience and boost academic performance. With a comprehensive set of AI-powered features, it serves as your personal tutor, lecture summarizer, writer, and question generator, all powered by Google Gemini. Whether you need assistance with specific topics, summarizing lectures, crafting essays, or generating practice questions, AI Assistant has got you covered.
+1. **Personal Tutor:**
+   Engage with an intelligent AI chatbot proficient in answering general questions and providing detailed explanations on specific subjects. Utilize natural language or attach an image for seamless recognition and accurate responses.
 
-## Features:
+2. **Lecture Summarizer:**
+   Streamline your learning experience by effortlessly condensing extensive lecture notes or PDF files. Input the lecture content, and AI Study Assistant will generate a concise, well-formatted PDF summary, including headlines, bullet points, and organizational elements.
 
-### Personal Tutor:
-Interact with an intelligent AI chatbot that can answer your general questions or provide explanations on specific subjects. Ask questions in natural language or attach an image of a question, and the AI will automatically recognize and process the text, providing you with accurate and helpful responses.
+3. **Writer:**
+   Overcome writer's block with ease. Input a subject or topic, and AI Study Assistant will generate a comprehensive, well-structured PDF essay, complete with informative headlines, bullet points, and other key elements, facilitating effective communication of your ideas.
 
-### Lecture Summarizer:
-Effortlessly summarize lengthy lecture notes or PDF files. Simply input the lecture file or content, and AI Study Assistant will generate a concise summary in a well-formatted PDF format. The summary includes headlines, bullet points, and other organizational elements, making it easier for you to review and grasp the key concepts.
+4. **Questions Generator:**
+   Reinforce knowledge through dynamically generated practice questions. Input lecture PDFs or content, and AI Assistant will produce a PDF containing multiple-choice questions, correct answers, and detailed explanations, enabling thorough self-assessment.
 
-### Writer:
-Overcome writer's block and streamline your essay writing process. Input a subject or topic, and AI Study Assistant will generate a comprehensive essay in a well-structured PDF format. The essay will include informative headlines, bullet points, and other key elements to help you present your ideas coherently and effectively.
+**Technologies:**
 
-### Questions Generator:
-Test your knowledge and reinforce your learning by generating practice questions. Input a lecture PDF file or content, and AI Assistant will generate a PDF file containing multiple-choice questions with the correct answers and detailed explanations. This feature allows you to evaluate your understanding of the material and identify areas that require further study.
-
-## Technologies
 - 100% Kotlin.
-- Made Using Jetpack Compose.
-- Following Clean Architecture approach.
-- Following MVVM Architectural Design Pattern.
+- Developed using Jetpack Compose.
+- Adheres to Clean Architecture principles.
+- Implements MVVM Architectural Design Pattern.
 
-### Used in the app:
+**Utilized Technologies:**
+
 - Ktor
 - Room DB
 - Hilt
@@ -52,10 +53,10 @@ Test your knowledge and reinforce your learning by generating practice questions
 - Jetpack Compose
 - Material 3
 
-## Contributing
-To get started, take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
+**Contributing:**
+Contribute to the advancement of AI Assistant by referring to [CONTRIBUTING.md](CONTRIBUTING.md).
 
-------
-*Main Screen Icons made by Freepik from www.flaticon.com
+**Support Development:**
+If you find AI Assistant valuable, kindly consider supporting its ongoing development by [buying me a coffee](https://www.buymeacoffee.com/olang).
 # Assistant
 # Assistant
