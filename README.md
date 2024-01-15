@@ -21,7 +21,10 @@
 alt="Get it on GitHub"
 height="80">](https://github.com/oang/Assistant/releases/latest) 
 (Click the icon to access the latest release)
-**Key Features:**
+
+AI Assistant represents a breakthrough in educational technology, designed to elevate your learning experience and optimize academic performance. Empowered by Google Gemini, it seamlessly integrates as your personalized tutor, lecture summarizer, writer, and question generator.
+
+## Key Features:**
 
 1. **Personal Tutor:**
    Engage with an intelligent AI chatbot proficient in answering general questions and providing detailed explanations on specific subjects. Utilize natural language or attach an image for seamless recognition and accurate responses.
@@ -35,14 +38,14 @@ height="80">](https://github.com/oang/Assistant/releases/latest)
 4. **Questions Generator:**
    Reinforce knowledge through dynamically generated practice questions. Input lecture PDFs or content, and AI Assistant will produce a PDF containing multiple-choice questions, correct answers, and detailed explanations, enabling thorough self-assessment.
 
-**Technologies:**
+## Technologies:**
 
 - 100% Kotlin.
 - Developed using Jetpack Compose.
 - Adheres to Clean Architecture principles.
 - Implements MVVM Architectural Design Pattern.
 
-**Utilized Technologies:**
+## Utilized Technologies:**
 
 - Ktor
 - Room DB
@@ -53,10 +56,10 @@ height="80">](https://github.com/oang/Assistant/releases/latest)
 - Jetpack Compose
 - Material 3
 
-**Contributing:**
+## Contributing:**
 Contribute to the advancement of AI Assistant by referring to [CONTRIBUTING.md](CONTRIBUTING.md).
 
-**Support Development:**
+## Support Development:**
 If you find AI Assistant valuable, kindly consider supporting its ongoing development by [buying me a coffee](https://www.buymeacoffee.com/olang).
 # Assistant
 # Assistant
